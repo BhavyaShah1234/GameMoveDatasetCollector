@@ -8,3 +8,5 @@ The steps to use the script are simple and as follows:
 3) Play the game(to let the script capture screenshots and record keypresses).
 4) Press 'esc' to stop script and get folder with screenshot images and csv file that maps the screenshots to corresponding keypresses.
 5) Use images as you wish.
+
+Dataset I creates using this: https://www.kaggle.com/darkangel24/dino-game
