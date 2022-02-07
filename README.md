@@ -9,4 +9,4 @@ The steps to use the script are simple and as follows:
 4) Press 'esc' to stop script and get folder with screenshot images and csv file that maps the screenshots to corresponding keypresses.
 5) Use images as you wish.
 
-Dataset I creates using this: https://www.kaggle.com/darkangel24/dino-game
+Dataset I created using this: https://www.kaggle.com/darkangel24/dino-game
