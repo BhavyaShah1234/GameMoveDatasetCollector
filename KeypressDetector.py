@@ -38,8 +38,11 @@ window_name = 'T-Rex Dinosaur Game - Chrome Dino Runner Online - Google Chrome'
 frame_key_dict = {'frame': [], 'move': []}
 counter = 0
 key = None
-if not os.path.isdir('images'):
-    os.mkdir('images')
+
+dir_name = 'images'
+if not os.path.isdir(dir_name):
+    os.mkdir(dir_name)
+
 while True:
     frame = capture_window(window_name, x, y, width, height)
     filename = f'images/img_{counter}.jpg'
